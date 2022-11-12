@@ -25,7 +25,7 @@ public class Get14ObjectMapper_Pojo extends JsonplaceholderBaseUrl {
 									  }
      */
 
-    //ObjectMapper + Pojo = En İyi Yöntem
+    // *** ObjectMapper + Pojo = En İyi Yöntem ***
     @Test
     public void get14Pojo(){
 
